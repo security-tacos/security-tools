@@ -15,9 +15,6 @@ https://ngrok.com/
 Google cloud post-exploitation
 https://www.youtube.com/watch?v=OJ_wUcVrGx0
 
-Security trails for dns reconnaissance
-https://securitytrails.com/
-
 Spiderfoot for perimeter
 https://github.com/smicallef/spiderfoot
 
@@ -36,8 +33,6 @@ https://www.owasp.org/images/2/2e/OWASP_Code_Review_Guide-V1_1.pdf
 Threat hunting
 https://gitlab.com/The-Real-TechLord/awesome-threat-detection
 
-google DNS tools
-https://toolbox.googleapps.com/apps/main/
 
 AWS Architecture review and threat modelling
 https://notsosecure.com/security-architecture-review-of-a-cloud-native-environment/
@@ -49,6 +44,15 @@ https://labs.detectify.com/2018/03/14/graphql-abuse/
 https://github.com/andev-software/graphql-ide
 https://hackerone.com/reports/291531
 https://www.hackerone.com/blog/the-30-thousand-dollar-gem-part-1
+
+
+## DNS reconnaisance
+Security trails for dns reconnaissance
+https://securitytrails.com/
+find dns host records
+https://hackertarget.com/find-dns-host-records/
+google DNS tools
+https://toolbox.googleapps.com/apps/main/
 
 ## infrastructure as code scanning tools
 https://github.com/liamg/tfsec
