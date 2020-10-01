@@ -42,6 +42,14 @@ https://toolbox.googleapps.com/apps/main/
 AWS Architecture review and threat modelling
 https://notsosecure.com/security-architecture-review-of-a-cloud-native-environment/
 
+Graphql testing
+https://blog.doyensec.com/2018/05/17/graphql-security-overview.html?source=post_elevate_sequence_page---------------------------
+https://medium.com/@localh0t/discovering-graphql-endpoints-and-sqli-vulnerabilities-5d39f26cea2e
+https://labs.detectify.com/2018/03/14/graphql-abuse/
+https://github.com/andev-software/graphql-ide
+https://hackerone.com/reports/291531
+https://www.hackerone.com/blog/the-30-thousand-dollar-gem-part-1
+
 ## infrastructure as code scanning tools
 https://github.com/liamg/tfsec
 https://github.com/cesar-rodriguez/terrascan
@@ -71,3 +79,4 @@ https://github.com/nccgroup/ScoutSuite
 https://github.com/cloudsploit/scans
 https://github.com/SecurityFTW/cs-suite
 https://github.com/duo-labs/cloudmapper
+
