@@ -64,3 +64,10 @@ https://attack.mitre.org/matrices/enterprise/cloud/saas/
 
 ## security policies
 https://about.gitlab.com/handbook/engineering/security
+
+## cloud auditing tools
+https://github.com/toniblyx/prowler
+https://github.com/nccgroup/ScoutSuite
+https://github.com/cloudsploit/scans
+https://github.com/SecurityFTW/cs-suite
+https://github.com/duo-labs/cloudmapper
