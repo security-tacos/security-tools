@@ -69,6 +69,8 @@ https://github.com/DefensiveOrigins/AtomicPurpleTeam/tree/master
 MITRE for aws
 https://attack.mitre.org/matrices/enterprise/cloud/saas/
 
+Compliance control framework
+https://about.gitlab.com/handbook/engineering/security/security-assurance/security-compliance/sec-controls.html
 
 ## security policies
 https://about.gitlab.com/handbook/engineering/security
