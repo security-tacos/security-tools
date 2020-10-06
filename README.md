@@ -70,6 +70,9 @@ https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-train
 Purple team lifecycle
 https://github.com/DefensiveOrigins/AtomicPurpleTeam/tree/master
 
+Purple team management platform
+https://vectr.io/getting-started/
+
 MITRE for aws
 https://attack.mitre.org/matrices/enterprise/cloud/saas/
 
