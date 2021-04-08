@@ -34,6 +34,7 @@ Threat hunting
 https://gitlab.com/The-Real-TechLord/awesome-threat-detection
 
 
+
 AWS Architecture review and threat modelling
 https://notsosecure.com/security-architecture-review-of-a-cloud-native-environment/
 
